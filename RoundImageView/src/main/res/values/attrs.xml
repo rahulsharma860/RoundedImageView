@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundImageView">
+        <attr name="border_color" format="color"/>
+        <attr name="image" format="string"/>
+        <attr name="scale_type" format="string"/>
+        <attr name="drawable" format="integer"/>
+    </declare-styleable>
+</resources>
