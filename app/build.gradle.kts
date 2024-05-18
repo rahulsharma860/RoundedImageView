@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.rahul.designerratingbar"
+    namespace = "com.rahul.roundimageview"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.rahul.designerratingbar"
+        applicationId = "com.rahul.roundimageview"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
