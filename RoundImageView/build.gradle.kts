@@ -1,7 +1,7 @@
 plugins {
     alias(libs.plugins.android.library)
     alias(libs.plugins.jetbrains.kotlin.android)
-    id("maven-publish")
+   id ("maven-publish")
 }
 
 android {
@@ -50,7 +50,7 @@ publishing {
         create<MavenPublication>("maven") {
             groupId = "com.rahul.roundimageview"
             artifactId = "roundimageview"
-            version = "1.0.2"
+            version = "1.0.0"
         }
     }
 }
